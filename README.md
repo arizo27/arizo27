@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arizo27
-- 👀 I’m interested in cars web development
+- 👀 I’m interested in cars and web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects that will develop my coding skills
 
